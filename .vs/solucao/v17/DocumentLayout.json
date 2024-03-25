@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7856ADA-F6D6-4C70-A68F-54A2FA557C2A}|Atividade10\\Atividade10.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade10\\model.utils\\conversores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7856ADA-F6D6-4C70-A68F-54A2FA557C2A}|Atividade10\\Atividade10.csproj|solutionrelative:atividade10\\model.utils\\conversores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7856ADA-F6D6-4C70-A68F-54A2FA557C2A}|Atividade10\\Atividade10.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7856ADA-F6D6-4C70-A68F-54A2FA557C2A}|Atividade10\\Atividade10.csproj|solutionrelative:atividade10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6011AABC-24D8-42DA-A006-7DDF40DD5391}|Atividade09\\Atividade09.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6011AABC-24D8-42DA-A006-7DDF40DD5391}|Atividade09\\Atividade09.csproj|solutionrelative:atividade09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6011AABC-24D8-42DA-A006-7DDF40DD5391}|Atividade09\\Atividade09.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade09\\model.entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6011AABC-24D8-42DA-A006-7DDF40DD5391}|Atividade09\\Atividade09.csproj|solutionrelative:atividade09\\model.entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B803219-A344-4C17-BDFD-49FEB29DCB0A}|Atividade08\\Atividade08.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B803219-A344-4C17-BDFD-49FEB29DCB0A}|Atividade08\\Atividade08.csproj|solutionrelative:atividade08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B803219-A344-4C17-BDFD-49FEB29DCB0A}|Atividade08\\Atividade08.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade08\\model.entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B803219-A344-4C17-BDFD-49FEB29DCB0A}|Atividade08\\Atividade08.csproj|solutionrelative:atividade08\\model.entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABB739-4B91-4869-ACA2-8E2CC8216867}|Atividade07\\Atividade07.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CABB739-4B91-4869-ACA2-8E2CC8216867}|Atividade07\\Atividade07.csproj|solutionrelative:atividade07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CABB739-4B91-4869-ACA2-8E2CC8216867}|Atividade07\\Atividade07.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade07\\model.entities\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CABB739-4B91-4869-ACA2-8E2CC8216867}|Atividade07\\Atividade07.csproj|solutionrelative:atividade07\\model.entities\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D77D2AB-9541-41C6-8594-C1301B7A4F00}|Atividade06\\Atividade06.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D77D2AB-9541-41C6-8594-C1301B7A4F00}|Atividade06\\Atividade06.csproj|solutionrelative:atividade06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D77D2AB-9541-41C6-8594-C1301B7A4F00}|Atividade06\\Atividade06.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade06\\mode.entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D77D2AB-9541-41C6-8594-C1301B7A4F00}|Atividade06\\Atividade06.csproj|solutionrelative:atividade06\\mode.entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAB79D-98A6-49FF-B90D-9261DFDF7506}|Atividade05\\Atividade05.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAAB79D-98A6-49FF-B90D-9261DFDF7506}|Atividade05\\Atividade05.csproj|solutionrelative:atividade05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAB79D-98A6-49FF-B90D-9261DFDF7506}|Atividade05\\Atividade05.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade05\\model.entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAAB79D-98A6-49FF-B90D-9261DFDF7506}|Atividade05\\Atividade05.csproj|solutionrelative:atividade05\\model.entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAAB79D-98A6-49FF-B90D-9261DFDF7506}|Atividade05\\Atividade05.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade05\\atividade05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CAAB79D-98A6-49FF-B90D-9261DFDF7506}|Atividade05\\Atividade05.csproj|solutionrelative:atividade05\\atividade05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05756D40-D0E8-4496-9BAC-580A8A79CF59}|Atividade04\\Atividade04.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05756D40-D0E8-4496-9BAC-580A8A79CF59}|Atividade04\\Atividade04.csproj|solutionrelative:atividade04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05756D40-D0E8-4496-9BAC-580A8A79CF59}|Atividade04\\Atividade04.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade04\\model.entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05756D40-D0E8-4496-9BAC-580A8A79CF59}|Atividade04\\Atividade04.csproj|solutionrelative:atividade04\\model.entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC60077-920C-48C9-9A79-8D17A6CF09CE}|Atividade03\\Atividade03.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC60077-920C-48C9-9A79-8D17A6CF09CE}|Atividade03\\Atividade03.csproj|solutionrelative:atividade03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC60077-920C-48C9-9A79-8D17A6CF09CE}|Atividade03\\Atividade03.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade03\\model.entities\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC60077-920C-48C9-9A79-8D17A6CF09CE}|Atividade03\\Atividade03.csproj|solutionrelative:atividade03\\model.entities\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3426881F-D578-451B-A5ED-D7336A2CDB22}|Atividade02\\Atividade02.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3426881F-D578-451B-A5ED-D7336A2CDB22}|Atividade02\\Atividade02.csproj|solutionrelative:atividade02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3426881F-D578-451B-A5ED-D7336A2CDB22}|Atividade02\\Atividade02.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade02\\model.utils\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3426881F-D578-451B-A5ED-D7336A2CDB22}|Atividade02\\Atividade02.csproj|solutionrelative:atividade02\\model.utils\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C642C-7D27-43BE-80D2-3D4013DD9287}|Atividade01\\Atividade01.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C642C-7D27-43BE-80D2-3D4013DD9287}|Atividade01\\Atividade01.csproj|solutionrelative:atividade01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C642C-7D27-43BE-80D2-3D4013DD9287}|Atividade01\\Atividade01.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade01\\model.entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C642C-7D27-43BE-80D2-3D4013DD9287}|Atividade01\\Atividade01.csproj|solutionrelative:atividade01\\model.entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C642C-7D27-43BE-80D2-3D4013DD9287}|Atividade01\\Atividade01.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade01\\atividade01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D4C642C-7D27-43BE-80D2-3D4013DD9287}|Atividade01\\Atividade01.csproj|solutionrelative:atividade01\\atividade01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3426881F-D578-451B-A5ED-D7336A2CDB22}|Atividade02\\Atividade02.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade02\\atividade02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3426881F-D578-451B-A5ED-D7336A2CDB22}|Atividade02\\Atividade02.csproj|solutionrelative:atividade02\\atividade02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC60077-920C-48C9-9A79-8D17A6CF09CE}|Atividade03\\Atividade03.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\atividade03\\atividade03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAC60077-920C-48C9-9A79-8D17A6CF09CE}|Atividade03\\Atividade03.csproj|solutionrelative:atividade03\\atividade03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F10B09-8190-4E92-9A12-7AADFD478ACD}|Biblioteca\\Biblioteca.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\biblioteca\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F10B09-8190-4E92-9A12-7AADFD478ACD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F10B09-8190-4E92-9A12-7AADFD478ACD}|Biblioteca\\Biblioteca.csproj|c:\\users\\zenop\\onedrive\\\u00E1rea de trabalho\\coisas de c#\\projetos\\exerciciopratico3\\solucao\\biblioteca\\biblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85F10B09-8190-4E92-9A12-7AADFD478ACD}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\biblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conversores.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade10\\model.utils\\Conversores.cs",
+              "RelativeDocumentMoniker": "Atividade10\\model.utils\\Conversores.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade10\\model.utils\\Conversores.cs",
+              "RelativeToolTip": "Atividade10\\model.utils\\Conversores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:51:17.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade10\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade10\\Program.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade10\\Program.cs",
+              "RelativeToolTip": "Atividade10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:32:18.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade09\\model.entities\\Carro.cs",
+              "RelativeDocumentMoniker": "Atividade09\\model.entities\\Carro.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade09\\model.entities\\Carro.cs",
+              "RelativeToolTip": "Atividade09\\model.entities\\Carro.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:09:22.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade09\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade09\\Program.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade09\\Program.cs",
+              "RelativeToolTip": "Atividade09\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:09:02.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade04\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade04\\Program.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade04\\Program.cs",
+              "RelativeToolTip": "Atividade04\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:42:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Atividade05.csproj",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade05\\Atividade05.csproj",
+              "RelativeDocumentMoniker": "Atividade05\\Atividade05.csproj",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade05\\Atividade05.csproj",
+              "RelativeToolTip": "Atividade05\\Atividade05.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T13:25:02.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade05\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade05\\Program.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade05\\Program.cs",
+              "RelativeToolTip": "Atividade05\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:24:35.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade05\\model.entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Atividade05\\model.entities\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade05\\model.entities\\Pessoa.cs",
+              "RelativeToolTip": "Atividade05\\model.entities\\Pessoa.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:25:42.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade06\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade06\\Program.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade06\\Program.cs",
+              "RelativeToolTip": "Atividade06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:34:32.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade06\\mode.entities\\Aluno.cs",
+              "RelativeDocumentMoniker": "Atividade06\\mode.entities\\Aluno.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade06\\mode.entities\\Aluno.cs",
+              "RelativeToolTip": "Atividade06\\mode.entities\\Aluno.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:35:45.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade07\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade07\\Program.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade07\\Program.cs",
+              "RelativeToolTip": "Atividade07\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:52:57.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade07\\model.entities\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Atividade07\\model.entities\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade07\\model.entities\\Retangulo.cs",
+              "RelativeToolTip": "Atividade07\\model.entities\\Retangulo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:54:34.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade08\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade08\\Program.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade08\\Program.cs",
+              "RelativeToolTip": "Atividade08\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:10:54.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade08\\model.entities\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Atividade08\\model.entities\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade08\\model.entities\\Funcionario.cs",
+              "RelativeToolTip": "Atividade08\\model.entities\\Funcionario.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:12:04.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade04\\model.entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Atividade04\\model.entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade04\\model.entities\\Produto.cs",
+              "RelativeToolTip": "Atividade04\\model.entities\\Produto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:45:15.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade03\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade03\\Program.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade03\\Program.cs",
+              "RelativeToolTip": "Atividade03\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:21:41.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade02\\model.utils\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Atividade02\\model.utils\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade02\\model.utils\\Calculadora.cs",
+              "RelativeToolTip": "Atividade02\\model.utils\\Calculadora.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:03:01.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade01\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade01\\Program.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade01\\Program.cs",
+              "RelativeToolTip": "Atividade01\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:57:46.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Atividade01.csproj",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade01\\Atividade01.csproj",
+              "RelativeDocumentMoniker": "Atividade01\\Atividade01.csproj",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade01\\Atividade01.csproj",
+              "RelativeToolTip": "Atividade01\\Atividade01.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-20T16:59:12.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade01\\model.entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Atividade01\\model.entities\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade01\\model.entities\\Pessoa.cs",
+              "RelativeToolTip": "Atividade01\\model.entities\\Pessoa.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:58:23.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade02\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade02\\Program.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade02\\Program.cs",
+              "RelativeToolTip": "Atividade02\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:55:11.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade03\\model.entities\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Atividade03\\model.entities\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade03\\model.entities\\Triangulo.cs",
+              "RelativeToolTip": "Atividade03\\model.entities\\Triangulo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:25:14.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Atividade02.csproj",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade02\\Atividade02.csproj",
+              "RelativeDocumentMoniker": "Atividade02\\Atividade02.csproj",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade02\\Atividade02.csproj",
+              "RelativeToolTip": "Atividade02\\Atividade02.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-20T17:02:07.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Atividade03.csproj",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade03\\Atividade03.csproj",
+              "RelativeDocumentMoniker": "Atividade03\\Atividade03.csproj",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Atividade03\\Atividade03.csproj",
+              "RelativeToolTip": "Atividade03\\Atividade03.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T16:21:45.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Leitura.cs",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Biblioteca\\Leitura.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Leitura.cs",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Biblioteca\\Leitura.cs",
+              "RelativeToolTip": "Biblioteca\\Leitura.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAuwEoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:31:29.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Biblioteca.csproj",
+              "DocumentMoniker": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Biblioteca\\Biblioteca.csproj",
+              "RelativeDocumentMoniker": "Biblioteca\\Biblioteca.csproj",
+              "ToolTip": "C:\\Users\\zenop\\OneDrive\\\u00C1rea de Trabalho\\coisas de C#\\projetos\\ExercicioPratico3\\solucao\\Biblioteca\\Biblioteca.csproj",
+              "RelativeToolTip": "Biblioteca\\Biblioteca.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T16:41:03.509Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

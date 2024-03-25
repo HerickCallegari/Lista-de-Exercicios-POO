@@ -1,0 +1,14 @@
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\bin\Debug\net8.0\Atividade01.exe
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\bin\Debug\net8.0\Atividade01.deps.json
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\bin\Debug\net8.0\Atividade01.runtimeconfig.json
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\bin\Debug\net8.0\Atividade01.dll
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\bin\Debug\net8.0\Atividade01.pdb
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\obj\Debug\net8.0\Atividade01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\obj\Debug\net8.0\Atividade01.AssemblyInfoInputs.cache
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\obj\Debug\net8.0\Atividade01.AssemblyInfo.cs
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\obj\Debug\net8.0\Atividade01.csproj.CoreCompileInputs.cache
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\obj\Debug\net8.0\Atividade01.dll
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\obj\Debug\net8.0\refint\Atividade01.dll
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\obj\Debug\net8.0\Atividade01.pdb
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\obj\Debug\net8.0\Atividade01.genruntimeconfig.cache
+C:\Users\zenop\OneDrive\Área de Trabalho\coisas de C#\projetos\ExercicioPratico3\solucao\Atividade1\obj\Debug\net8.0\ref\Atividade01.dll
